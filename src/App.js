@@ -1,10 +1,11 @@
 
 import './App.css';
-import TopAiringAnime from './Components/cards';
+
+import Sidebar from './Components/Sidebar';
 
 function App() {
   return (
-    <TopAiringAnime />
+    <Sidebar />
   );
 }
 
